@@ -1,0 +1,11 @@
+{
+  "package": "n_wrap_button",
+  "name": "Add [[n: ... ]] Editor Button",
+  "mod": 1770132971,
+  "conflicts": [],
+  "min_point_version": 0,
+  "max_point_version": 0,
+  "config": {
+    "shortcut": "Ctrl+Alt+N"
+  }
+}

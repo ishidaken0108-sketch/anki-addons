@@ -1,0 +1,10 @@
+{
+  "enabled": true,
+  "position": "bottom",
+  "show_on_question": true,
+  "show_on_answer": true,
+  "max_siblings": 10,
+  "show_when_no_siblings": false,
+  "debug": false,
+  "show_prediction": true
+}

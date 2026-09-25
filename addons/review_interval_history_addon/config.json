@@ -1,0 +1,18 @@
+{
+  "history_count": 3,
+  "show_tooltip": true,
+  "box_min_width": 54,
+  "box_height": 28,
+  "font_size": 13,
+  "gap": 6,
+  "margin_bottom": 8,
+  "colors": {
+    "again": "#ffb3b3",
+    "hard": "#ffd9a8",
+    "good": "#b9f6ca",
+    "easy": "#b3e5fc",
+    "manual": "#ffffff",
+    "border": "#cfcfcf",
+    "text": "#222222"
+  }
+}

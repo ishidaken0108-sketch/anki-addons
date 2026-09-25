@@ -1,0 +1,9 @@
+{
+  "auto_reorder_on_profile_open": true,
+  "auto_reorder_after_sync": true,
+  "auto_reorder_when_deck_browser_is_shown": true,
+  "show_auto_tooltip": false,
+  "oldest_first": true,
+  "starting_due_number": 1,
+  "include_suspended_and_buried_new_cards": true
+}

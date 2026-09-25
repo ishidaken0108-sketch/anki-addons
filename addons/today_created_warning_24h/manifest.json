@@ -1,0 +1,11 @@
+{
+  "package": "today_created_warning_24h",
+  "name": "Recent New Card Warning (24h)",
+  "mod": 1770000001,
+  "min_point_version": 1,
+  "max_point_version": 99,
+  "branch_index": 0,
+  "conflicts": [],
+  "homepage": "",
+  "disabled": false
+}

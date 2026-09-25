@@ -1,0 +1,8 @@
+{
+  "name": "Sibling Due Display (兄弟カード期日表示)",
+  "package": "sibling_due_display",
+  "version": "0.2.3",
+  "min_point_version": 0,
+  "max_point_version": 0,
+  "homepage": "https://ankiweb.net/shared/addons"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Enhanced Cloze Preview/Review Companion",
+  "package": "enhanced_cloze_companion",
+  "author": "OpenAI",
+  "version": "21",
+  "human_version": "v21",
+  "homepage": "",
+  "conflicts": []
+}

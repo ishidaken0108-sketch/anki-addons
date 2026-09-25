@@ -1,0 +1,18 @@
+{
+  "config_version": 4,
+  "enabled": true,
+  "max_timer_seconds": 180,
+  "initial_bonus_multiplier": 1.5,
+  "wrong_answer_seconds": 20,
+  "enforce_mute_every_seconds": 3.0,
+  "flag_seconds": {
+    "0": 10,
+    "1": 120,
+    "2": 90,
+    "3": 60,
+    "4": 40,
+    "5": 30,
+    "6": 20,
+    "7": 0
+  }
+}

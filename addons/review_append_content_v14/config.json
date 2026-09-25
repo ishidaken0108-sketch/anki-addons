@@ -1,0 +1,8 @@
+{
+  "targetTag": "復習追加先",
+  "sourceContentField": "Content",
+  "targetContentField": "Content",
+  "mnemonicsField": "Mnemonics",
+  "buttonLabel": "復習追加",
+  "autoAddNewAgain": true
+}
