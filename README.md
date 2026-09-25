@@ -1,2 +1,15 @@
-# anki-addons
-Anki add-ons I developed to improve my study workflow.
+# Anki Add-ons
+
+資格試験の学習を効率化するために開発したAnkiアドオン集です。
+
+学習中に感じた小さな不便や非効率を改善するため、Pythonを用いて複数のアドオンを開発しました。
+
+## Add-ons
+
+主な機能：
+
+- 穴埋め問題の表示・操作改善
+- 画像サイズの自動調整
+- カードブラウザの操作改善
+- 学習情報の表示追加
+- 復習・暗記作業の効率化
